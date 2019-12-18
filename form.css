@@ -1,0 +1,26 @@
+body{
+    background-color: #283051;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+table{
+    border:0;
+    margin:auto;
+}
+
+#formcontact{
+    color: white;
+}
+.btn,.styleform{
+    width:400px;
+}
+
+.btn{
+    background-color: #283051;
+    color:white;
+    text-align: center;
+    height: 35px;
+    cursor: pointer;
+}
